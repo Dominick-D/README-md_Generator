@@ -4,6 +4,8 @@
 ## 📚 Description
 Generate Markdown for any project by filling out the prompts given. After filling out the prompts a markdown file is generated with code blocks as well as emojis in the titles.
 
+![Screenshot](./Screenshot.png?raw=true "Screenshot")
+
 ## 📖 Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
