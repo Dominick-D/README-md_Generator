@@ -23,6 +23,7 @@ Generate Markdown for any project by filling out the prompts given. After fillin
 ```
 
 ## 🎯 Usage
+[Walkthrough Video 🎥](https://drive.google.com/file/d/1PpDM7DiPb-g-yJELleee7PpdeDBp7AJG/view?usp=sharing)
 1. Open your terminal and navigate to the directory containing the project files. /br Run the command `node index.js`.
 2. Answer the series of prompts about your project.
 3. The application will generate a README file in the same directory based on the user responses.
